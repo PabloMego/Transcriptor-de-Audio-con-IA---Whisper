@@ -98,9 +98,3 @@ Transcripciones para SEO = más visitas 💰
 Subtítulos rápidos para CapCut. Nivel dios 🎬
 
 ---
-
-## 🚀 Instalación (básica)
-
-```bash
-pip install -r requirements.txt
-python main.py
